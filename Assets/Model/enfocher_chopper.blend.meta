@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: 24e73ce3974bc9640b91899510018df1
+timeCreated: 1443538285
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: back_wind_controller
+    100002: Blade_Bone
+    100004: Blade_holder
+    100006: Blades
+    100008: Bone
+    100010: Bone_001
+    100012: Bone_002
+    100014: //RootNode
+    100016: Machine_Gun
+    100018: main_body
+    100020: smoke_chimni
+    100022: Tier_holders
+    100024: Tiers
+    100026: wheel_holder
+    100028: wheel_rod
+    100030: wings
+    400000: back_wind_controller
+    400002: Blade_Bone
+    400004: Blade_holder
+    400006: Blades
+    400008: Bone
+    400010: Bone_001
+    400012: Bone_002
+    400014: //RootNode
+    400016: Machine_Gun
+    400018: main_body
+    400020: smoke_chimni
+    400022: Tier_holders
+    400024: Tiers
+    400026: wheel_holder
+    400028: wheel_rod
+    400030: wings
+    2300000: back_wind_controller
+    2300002: Blade_holder
+    2300004: Machine_Gun
+    2300006: main_body
+    2300008: smoke_chimni
+    2300010: Tier_holders
+    2300012: Tiers
+    2300014: wheel_holder
+    2300016: wheel_rod
+    2300018: wings
+    3300000: back_wind_controller
+    3300002: Blade_holder
+    3300004: Machine_Gun
+    3300006: main_body
+    3300008: smoke_chimni
+    3300010: Tier_holders
+    3300012: Tiers
+    3300014: wheel_holder
+    3300016: wheel_rod
+    3300018: wings
+    4300000: Blades
+    4300002: smoke_chimni
+    4300004: Blade_holder
+    4300006: Tiers
+    4300008: Tier_holders
+    4300010: wheel_rod
+    4300012: wings
+    4300014: Machine_Gun
+    4300016: back_wind_controller
+    4300018: wheel_holder
+    4300020: main_body
+    7400000: Default Take
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Blades
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: back_wind_controller
+        weight: 1
+      - path: Blade_Bone
+        weight: 1
+      - path: Blade_Bone/Bone
+        weight: 1
+      - path: Blade_Bone/Bone_001
+        weight: 1
+      - path: Blade_Bone/Bone_002
+        weight: 1
+      - path: Blade_holder
+        weight: 1
+      - path: Blades
+        weight: 1
+      - path: Machine_Gun
+        weight: 1
+      - path: main_body
+        weight: 1
+      - path: smoke_chimni
+        weight: 1
+      - path: Tier_holders
+        weight: 1
+      - path: Tiers
+        weight: 1
+      - path: wheel_holder
+        weight: 1
+      - path: wheel_rod
+        weight: 1
+      - path: wings
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,244 @@
+fileFormatVersion: 2
+guid: 71536fb1b8a8cf046b39febcbc6fa8eb
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Armature_1
+    100002: Armature_2
+    100004: Armature_3
+    100006: Ball
+    100008: bar_1_2
+    100010: bar_3
+    100012: blade_1
+    100014: blade_2
+    100016: blade_3
+    100018: Bone
+    100020: Bone_0
+    100022: Bone_001
+    100024: Bone_002
+    100026: Bone_003
+    100028: Bone_1
+    100030: Bone_2
+    100032: Bone_3
+    100034: Bone_4
+    100036: Bone_5
+    100038: Bone_6
+    100040: Bone_7
+    100042: //RootNode
+    100044: holder
+    100046: motor_1_2
+    100048: motor_3
+    100050: motor_head_1_2
+    100052: motor_head_3
+    100054: handle_1_2
+    100056: handle_3
+    400000: Armature_1
+    400002: Armature_2
+    400004: Armature_3
+    400006: Ball
+    400008: bar_1_2
+    400010: bar_3
+    400012: blade_1
+    400014: blade_2
+    400016: blade_3
+    400018: Bone
+    400020: Bone_0
+    400022: Bone_001
+    400024: Bone_002
+    400026: Bone_003
+    400028: Bone_1
+    400030: Bone_2
+    400032: Bone_3
+    400034: Bone_4
+    400036: Bone_5
+    400038: Bone_6
+    400040: Bone_7
+    400042: //RootNode
+    400044: holder
+    400046: motor_1_2
+    400048: motor_3
+    400050: motor_head_1_2
+    400052: motor_head_3
+    400054: handle_1_2
+    400056: handle_3
+    2300000: Ball
+    2300002: bar_1_2
+    2300004: bar_3
+    2300006: holder
+    2300008: motor_1_2
+    2300010: motor_3
+    2300012: motor_head_1_2
+    2300014: motor_head_3
+    2300016: handle_1_2
+    2300018: handle_3
+    3300000: Ball
+    3300002: bar_1_2
+    3300004: bar_3
+    3300006: holder
+    3300008: motor_1_2
+    3300010: motor_3
+    3300012: motor_head_1_2
+    3300014: motor_head_3
+    3300016: handle_1_2
+    3300018: handle_3
+    4300000: blade_3
+    4300002: blade_2
+    4300004: blade_1
+    4300006: Ball
+    4300008: motor_head_3
+    4300010: motor_head_1_2
+    4300012: motor_3
+    4300014: motor_1_2
+    4300016: bar_3
+    4300018: bar_1_2
+    4300020: holder
+    4300022: handle_3
+    4300024: handle_1_2
+    7400000: Default Take
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: blade_1
+    13700002: blade_2
+    13700004: blade_3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_1
+        weight: 1
+      - path: Armature_1/Bone_1
+        weight: 1
+      - path: Armature_1/Bone_5
+        weight: 1
+      - path: Armature_1/Bone_6
+        weight: 1
+      - path: Armature_1/Bone_7
+        weight: 1
+      - path: Armature_2
+        weight: 1
+      - path: Armature_2/Bone_0
+        weight: 1
+      - path: Armature_2/Bone_2
+        weight: 1
+      - path: Armature_2/Bone_3
+        weight: 1
+      - path: Armature_2/Bone_4
+        weight: 1
+      - path: Armature_3
+        weight: 1
+      - path: Armature_3/Bone
+        weight: 1
+      - path: Armature_3/Bone_001
+        weight: 1
+      - path: Armature_3/Bone_002
+        weight: 1
+      - path: Armature_3/Bone_003
+        weight: 1
+      - path: Ball
+        weight: 1
+      - path: Ball/bar_1_2
+        weight: 1
+      - path: Ball/bar_3
+        weight: 1
+      - path: Ball/holder
+        weight: 1
+      - path: Ball/motor_1_2
+        weight: 1
+      - path: Ball/motor_3
+        weight: 1
+      - path: Ball/motor_head_1_2
+        weight: 1
+      - path: Ball/motor_head_3
+        weight: 1
+      - path: blade_1
+        weight: 1
+      - path: blade_2
+        weight: 1
+      - path: blade_3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
